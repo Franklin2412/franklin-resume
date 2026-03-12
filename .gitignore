@@ -1,7 +1,0 @@
-# Ignore these so they're not stored in source control
-.vscode
-.github/
-/node_modules/
-package-lock.json
-#/docs/build.css
-/tmp/
